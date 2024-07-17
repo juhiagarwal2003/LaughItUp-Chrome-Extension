@@ -13,7 +13,7 @@ Imagine brightening your day with a quick laugh whenever you need it most. Laugh
 3. Click the extension icon in Chrome to enjoy a quick laugh! 🌐✨
 
 #### Blog:
-Discover the journey of creating LaughItUp and explore key insights into Chrome extension development in my blog post: [How to Create and Publish a Jokes Chrome Extension](link_to_your_blog_here). 🎨✨
+Discover the journey of creating LaughItUp and explore key insights into Chrome extension development in my blog post: [How to Create and Publish a Jokes Chrome Extension](https://juhiagarwal.hashnode.dev/laughitup-create-your-own-jokes-chrome-extension). 🎨✨
 
 #### Technologies Used:
 - HTML
